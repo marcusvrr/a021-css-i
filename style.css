@@ -1,0 +1,27 @@
+.bloco{
+    padding: 2px 15px 7px  ;
+    margin: 7px;
+    width: 27%;
+    font-family: "helvetica";
+    color: bisque;
+}
+#bloco-1{
+    background-color: #E18F39;
+    border: 7px solid #EDA751;
+
+}
+#bloco-2{
+    background-color: #3C7F4E;
+    border: 7px solid #51A676;
+
+}
+#bloco-3{
+    background-color: #1E4633;
+    border: 7px dashed #64CD7B;
+
+}
+#bloco-4{
+    background-color: #DC3F2B;
+    border: 7px dashed #E98274;
+
+}
